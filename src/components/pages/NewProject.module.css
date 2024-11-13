@@ -1,7 +1,6 @@
 .newproject_container {
-    border: 1px solid red;
     width: 450px;
-    margin: 0 auto;
+    margin: 2em auto;
 }
 
 .newproject_container h1 {
