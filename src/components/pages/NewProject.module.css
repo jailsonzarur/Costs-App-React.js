@@ -1,0 +1,13 @@
+.newproject_container {
+    border: 1px solid red;
+    width: 450px;
+    margin: 0 auto;
+}
+
+.newproject_container h1 {
+    margin-bottom: 0.5em;
+}
+
+.newproject_container {
+    
+}
