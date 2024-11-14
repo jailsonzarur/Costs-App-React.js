@@ -1,3 +1,46 @@
 {
-    "projects": ["Flowise", "MySQL"]
+  "projects": [
+    {
+      "id": "30e3",
+      "name": "Jailsonn",
+      "budget": "",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "1455",
+      "category": "1",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "5d2d",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "budget": "10000",
+      "name": "Limpar a Casa",
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
 }
